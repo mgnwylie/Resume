@@ -1,6 +1,6 @@
 ---
 title: "Résumé"
-author: "Rick Martel"
+author: "Megan Wylie"
 date: "8/31/2020"
 output: 
   pdf_document:
